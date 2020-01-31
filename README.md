@@ -2,7 +2,9 @@
 
 This is boilerplate code for a has-many-through relationship. Make sure you `fork` the file to your repo!
 
-You can define your models in the three files in `lib` and then, test your code in the `run.rb` file.
+You can define your models in the three files in folder `app/models` and then, test your code in the `tools/console.rb` file.
+
+To run your code, type `ruby tools/console.rb` from the root directory in your terminal.
 
 Here are some potential models you might use (The order of the models are random):
 
